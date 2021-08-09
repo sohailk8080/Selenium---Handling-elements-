@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Maven Project" duration-ms="99178" started-at="2021-08-09T22:21:19 IST" finished-at="2021-08-09T22:22:58 IST">
+    <groups>
+    </groups>
+    <test name="Hybrid Framework" duration-ms="99178" started-at="2021-08-09T22:21:19 IST" finished-at="2021-08-09T22:22:58 IST">
+      <class name="org.mvnframework.mvnFinal.PracticePage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.mvnframework.mvnFinal.PracticePage@20322d26]" name="beforeClass" is-config="true" duration-ms="14948" started-at="2021-08-09T22:21:19 IST" finished-at="2021-08-09T22:21:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="practiceElements()[pri:0, instance:org.mvnframework.mvnFinal.PracticePage@20322d26]" name="practiceElements" duration-ms="80319" started-at="2021-08-09T22:21:34 IST" finished-at="2021-08-09T22:22:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceElements -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.mvnframework.mvnFinal.PracticePage@20322d26]" name="afterClass" is-config="true" duration-ms="3844" started-at="2021-08-09T22:22:54 IST" finished-at="2021-08-09T22:22:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.mvnframework.mvnFinal.PracticePage -->
+    </test> <!-- Hybrid Framework -->
+  </suite> <!-- Maven Project -->
+</testng-results>
